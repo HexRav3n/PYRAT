@@ -23,7 +23,7 @@ xxx                    xxxxx             x   x
              xxxxx            xxx   xxxxxxxx
                x xxxx              xxx xx
              xxx    xxxxxxxxxxxxxxx
-                                  xxx
+                                  xxx JR 2.0
 """
 print(colorama.Fore.LIGHTGREEN_EX + ART)
 print(colorama.Style.RESET_ALL)
